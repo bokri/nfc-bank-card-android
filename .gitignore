@@ -47,5 +47,3 @@ gradle/wrapper/gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
 gradlew.bat
 .idea/vcs.xml
-## POEditor
-.poeditor_credentials
